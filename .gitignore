@@ -1,12 +1,3 @@
 
-obj/Dynamix.Shhh.iOS.csproj.nuget.dgspec.json
-obj/iPhone/Debug/Shhh.iOS.csproj.FileListAbsolute.txt
-obj/iPhone/Debug/Shhh.iOS.csprojAssemblyReference.cache
-obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttributes.cs
-obj/project.assets.json
-obj/project.nuget.cache
-obj/iPhone/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-obj/iPhone/Debug/Dynamix.Shhh.iOS.csprojAssemblyReference.cache
-obj/Shhh.iOS.csproj.nuget.dgspec.json
-obj/Shhh.iOS.csproj.nuget.g.props
-obj/Shhh.iOS.csproj.nuget.g.targets
+obj/*
+bin/*
